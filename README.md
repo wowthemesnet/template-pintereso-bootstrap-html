@@ -4,7 +4,7 @@
 
 Pintereso is a [Bootstrap](https://getbootstrap.com/) 4.x template designed and developed by [WowThemesNet](https://www.wowthemes.net/) and distributed by [Bootstrap Starter](https://bootstrapstarter.com/). 
 
-![pintereso theme](assets/img/screenshot.jpg)
+![pintereso theme](docs/assets/img/screenshot.jpg)
 
 ## Beginners
 
